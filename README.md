@@ -1,4 +1,26 @@
 # Unicorn Blondy Check Hybrid Black
+[Icons](#icons) <br/>
+    - [Control Bar Icons](#control-bar-icons)<br/>
+    - [Status Bar Icons](#status-bar-icons)<br/>
+
+[Files on your computer](#files-on-your-computer)<br/>
+
+[First ranking](#first-ranking)<br/>
+    - [Calibration settings page](#calibration-settings-page)<br/>
+    - [Test settings page](#test-settings-page)<br/>
+    - [Test results page](#test-results-page)<br/>
+    - [Ranking settings page](#ranking-settings-page)<br/>
+    - [Ranking results page](#ranking-results-page)<br/>
+
+[Visual evoked potentials](#visual-evoked-potentials)<br/>
+    - [Visual evoked potentials page](#visual-evoked-potentials-page)<br/>
+
+[Creating picture-sets](#creating-picture-sets)<br/>
+    - [Picture-set editor](#picture-set-editor)<br/>
+    - [Create new picture-set](#create-new-picture-set)<br/>
+
+[Logging the raw data](#logging-the-raw-data)<br/>
+
 Unicorn Blondy check is an application that uses the P300 component of the visual evoked potential to rank images according to interest. The user can create picture-sets and subsequently rank the images according to the EEG signal. The images are presented in a randomized order. Display time, dark time as well as additional parameters are subject to user input but can be set to default values for ease of use.
 <p align="center">
 <img src="./img/img1.png" alt="drawing" width="500"/><br/>
